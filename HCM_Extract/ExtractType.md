@@ -69,4 +69,7 @@ BLOCK and BLOCK_OLD is applicable for those extracts which are having Hierarchic
   3. Select the value from the Parameter Basis list.
   4. Click Save and Close.
 
+## Enabling Advanced Edit Option
+
+Need to add Lookup Entry with Lookup Code as *EXT_PUI_ENABLE* and Meaning as *YES* within seeded Lookup *ORA_PER_EXT_CONFIG*
 
